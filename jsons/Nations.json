@@ -29,7 +29,27 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Metatronic Developments",
+		"uniques": [  "[+1 Gold, +1 Production, +1 Food] [in all cities]",
+			"[+1 Gold, +1 Production, +1 Food] in cities on [Snow] tiles",
+			"[+4 Production] from every [Strategic resource]",
+			"[+400]% Production towards any buildings that already exist in the Capital",
+			"[+4] Sight <for [{Military} {Land}] units>", 
+			"[4] Range",
+			"[-75]% Gold cost of acquiring tiles [in all cities]",
+			"[-75]% maintenance costs <for [Land] units>",
+			"[+75]% XP gained from combat",
+			"[+75]% Strength for cities"
+			"[+75]% Strength <vs [City-States]>",
+			"[+75]% Strength <when fighting units from a Civilization with more Cities than you>",
+			"[+75] Air Interception Range",
+			"Receive triple Gold from Barbarian encampments and pillaging Cities",
+			"[-75]% maintenance on road & railroads",
+			"[-75]% Culture cost of adopting new Policies",
+			"[+75]% of excess happiness converted to [Production]",
+			"New spies start with [4] level(s)",
+			"[-75]% enemy spy effectiveness [in all cities]"
+			],
 		"cities": ["New Dean","Dean 99"]
 	}
 ]
