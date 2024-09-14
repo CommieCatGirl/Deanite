@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "The great Deanite nation.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
@@ -27,14 +27,15 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
 		"uniqueName": "Metatronic Developments",
-		"uniques": [  "[+1 Gold, +1 Production, +1 Food] [in all cities]",
-			"[+1 Gold, +1 Production, +1 Food] in cities on [Snow] tiles",
+		"uniques": [  "[+1 Gold, +1 Production, +1 Food, +1 Culture, +Faith] [in all cities]",
+			"[+1 Gold, +1 Production, +1 Food, +1 Culture, +Faith] in cities on [Snow] tiles",
 			"[+4 Production] from every [Strategic resource]",
 			"[+400]% Production towards any buildings that already exist in the Capital",
 			"[+4] Sight <for [{Military} {Land}] units>", 
+			"[+4] Movement <for [Water] units>"
 			"[4] Range",
 			"[-75]% Gold cost of acquiring tiles [in all cities]",
 			"[-75]% maintenance costs <for [Land] units>",
@@ -45,6 +46,7 @@
 			"[+75] Air Interception Range",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities",
 			"[-75]% maintenance on road & railroads",
+			"[-75]% Unhappiness from [Population] [in all cities]"
 			"[-75]% Culture cost of adopting new Policies",
 			"[+75]% of excess happiness converted to [Production]",
 			"New spies start with [4] level(s)",
