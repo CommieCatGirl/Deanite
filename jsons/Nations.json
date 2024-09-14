@@ -30,10 +30,11 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"uniqueName": "Metatronic Developments",
-		"uniques": [  "[+1 Gold, +1 Production, +1 Food, +1 Culture, +Faith] [in all cities]",
-			"[+1 Gold, +1 Production, +1 Food, +1 Culture, +Faith] in cities on [Snow] tiles",
+		"uniques": [  "[+1 Gold, +1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science] [in all cities]",
+			"[+1 Gold, +1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science] in cities on [Snow] tiles",
 			"[+4 Production] from every [Strategic resource]",
 			"[+400]% Production towards any buildings that already exist in the Capital",
+			"[+75]% Production when constructing [All] wonders [in all cities]"
 			"[+4] Sight <for [{Military} {Land}] units>", 
 			"[+4] Movement <for [Water] units>"
 			"[4] Range",
